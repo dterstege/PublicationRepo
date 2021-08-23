@@ -6,7 +6,7 @@ Non-experimental sample data has been provided to demonstrate the required data 
 
 ### Notes to consider when running the analysis:
 
--dsf
--sdfsdg
+- dsf
+- sdfsdg
 
 
