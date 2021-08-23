@@ -1,6 +1,6 @@
-# Epp Lab Publication Repository
+# Publication Repository
 
-Repository for Publication-Specific Analysis Scripts Corresponding to specific Epp Lab publications
+Repository for Publication-Specific Analysis Scripts
 
 Navigate the appended folders within the repository to explore analysis scripts used in particular publications
 
