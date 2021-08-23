@@ -6,9 +6,9 @@ Navigate the appended folders within the repository to explore analysis scripts 
 
 ## Table of Contents
 
-| Folder  | Title | Key Words |
+| Folder  | Title | Included Analyses |
 | ------------- | ------------- | --------- |
-| [1. Installation Instructions](#installation)   | How to install  | |
+| [NatCom2021](#installation)   | Something something Neurogenesis CA1  | Photometry |
 
 
 If you find any of these analyses to be useful in your own projects, please appropriately cite the referenced publication
