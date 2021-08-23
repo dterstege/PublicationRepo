@@ -4,6 +4,21 @@ The attached scripts were used in the fiber photometry analyses conducted during
 
 Non-experimental sample data has been provided to demonstrate the required data organization.
 
+### Analysis Information
+
+Inputs: 
+- Neurophotometrics Photometry Output (.csv)
+- ANYmaze Outputs (.csv)
+
+Analyses (data stored in the MATLAB structure element "FP"):
+- dFF = delta F over F
+- peaks = information about metrics related to peaks in the photometry traces
+
+Operational Definitions:
+- dFF: Isosbestic data is fit to a biexponential decay which is linearly scaled to the raw 470 signal data.
+- Baseline Correction: Minimum dFF value from the test segment is set to the mean value from the user-defined baseline segment. All other values are scaled acordingly.
+- Peaks: Peaks are defined as any point at which the dFF trace makes a downward deflection after rising to at least two standard deviations above the median dFF value 
+
 ### Notes to consider when running the analysis:
 
 - Analyses conducted using MATLAB R2020a on macOS 10.15.7
