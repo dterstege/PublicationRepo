@@ -6,7 +6,11 @@ Non-experimental sample data has been provided to demonstrate the required data 
 
 ### Notes to consider when running the analysis:
 
-- dsf
-- sdfsdg
+- Analyses conducted using MATLAB R2020a on macOS 10.15.7
+- Please read the entire documentation prior to running the script and adjust lines as needed
+- Run each section of the analysis scripts in order
+
+
+- After running
 
 
