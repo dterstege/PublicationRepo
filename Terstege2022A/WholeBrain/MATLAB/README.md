@@ -5,6 +5,10 @@ WholeBrainAnalysis.m was developed for the compilation and analysis of datasets 
 
 Whole Brain is a neuroanatomical information system.  Neuroanatomical data obtained from microscope images is encoded and stored in stereotactic coordinate form within the Allen Mouse Brain Atlas. The software suite can be accessed at http://www.wholebrainsoftware.org
 
+Current Version: V 1.0.1
+
+
+
 ## Table of Contents
 
 | Section  | Contents |
