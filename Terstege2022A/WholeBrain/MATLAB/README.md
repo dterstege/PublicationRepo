@@ -9,10 +9,10 @@ Whole Brain is a neuroanatomical information system.  Neuroanatomical data obtai
 
 | Section  | Contents |
 | ------------- | ------------- |
-| Inputs | How to organize your data for analysis |
-| Operation | How to run the analysis |
-| Outputs | How the analysis will present your data |
-| Requirements | What is required to run the analysis |
+| **Inputs** | How to organize your data for analysis |
+| **Operation** | How to run the analysis |
+| **Outputs** | How the analysis will present your data |
+| **Requirements** | What is required to run the analysis |
 
 **Required Packages**:
 
