@@ -1,6 +1,7 @@
-Script for Analysis of WholeBrain outputs
+Analysis of WholeBrain Outputs
+==============================
 
-Required Packages:
+**Required Packages**:
 
 - [fdr_bh.m](https://www.mathworks.com/matlabcentral/fileexchange/27418-fdr_bh)
 - [degrees_und.m](https://sites.google.com/site/bctnet/)
@@ -9,7 +10,7 @@ Required Packages:
 - [deduce_mcl_clusters.m](https://github.com/AndrasHartmann/MMCL)
 - [smallworldassessment.m](https://github.com/dterstege/SmallWorldAssessment)
 
-Required Files ([included in this repository](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2022A/WholeBrain/MATLAB/Atlases)):
+**Required Files** ([included in this repository](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2022A/WholeBrain/MATLAB/Atlases)):
 
 - WB_Atlas.mat
 - a user-defined atlas (ex: User_Atlas_98reg.mat)
