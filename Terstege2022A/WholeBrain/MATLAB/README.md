@@ -28,6 +28,8 @@ Users should organize these output files so that each mouse has its own folder (
 
 **Variables in MATLAB Script**
 
+Users should read the MATLAB documentation in full prior to beginning the analysis.  At the beginning of each block of code in the script, there is a blurb outlining the required packages, giving insight into the analysis parameters, and providing general instructions.  This blurb also outlines the user input variables in each section.  These variables ask the user to input things from group identifiers, the number of mice per group, and individual mouse IDs, to technical details such as network thresholds.  Adjust these values to suit your experiment.
+
 <a name="op"/>
 
 ## 2. Operation
