@@ -17,6 +17,10 @@ Whole Brain is a neuroanatomical information system.  Neuroanatomical data obtai
 
 <a name="req"/>
 
+## 4. Requirements
+
+Please ensure that the following packages and files are located in a MATLAB-accessible folder.  It is reccommended that the user copies these files to the MATLAB Path directory.
+
 **Required Packages**:
 
 - [fdr_bh.m](https://www.mathworks.com/matlabcentral/fileexchange/27418-fdr_bh)
