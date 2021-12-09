@@ -18,6 +18,16 @@ Whole Brain is a neuroanatomical information system.  Neuroanatomical data obtai
 
 ## 1. Inputs
 
+**Input Files**
+
+After running the [*R* script](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2022A/WholeBrain/R), users will have two output csv files generated from each image.  One of these files will have the suffix "cells.csv" while the other has the suffix "grids.csv".  
+
+**File Organization**
+
+Users should organize these output files so that each mouse has its own folder (referred to in the analysis as the "parent folder" for that mouse).  Within this folder, there should be two subfolders titled "cell" and "grid" (caps sensitive folder naming).  *Cell* should contain all "cells.csv" files for that animal, while *grid* contains all "grids.csv" files for that animal.
+
+**Variables in MATLAB Script**
+
 <a name="op"/>
 
 ## 2. Operation
