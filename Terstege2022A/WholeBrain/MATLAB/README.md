@@ -9,7 +9,7 @@ Required Packages:
 - [deduce_mcl_clusters.m](https://github.com/AndrasHartmann/MMCL)
 - [smallworldassessment.m](https://github.com/dterstege/SmallWorldAssessment)
 
-Required Files (included in this repository):
+Required Files ([included in this repository](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2022A/WholeBrain/MATLAB/Atlases)):
 
 - WB_Atlas.mat
 - a user-defined atlas (ex: User_Atlas_98reg.mat)
