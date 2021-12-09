@@ -36,11 +36,13 @@ Users should read the MATLAB documentation in full prior to beginning the analys
 
 ## 2. Operation
 
-It is recommended that users read the MATLAB documentation in full prior to beginning the analysis.  It is also recommended that users run each section independently, which allows users to utlize the *Save* and *Load* commands built into the last two sections of the code (*Sections X and Y*).  The loading of experimental data can be time consuming, depending on group sizes.  Therefore, 
+It is recommended that users read the MATLAB documentation in full prior to beginning the analysis.  It is also recommended that users run each section independently, which allows users to utlize the *Save* and *Load* commands built into the last two sections of the code (*Sections X and Y*).  The loading of experimental data can be time consuming, depending on group sizes.  Therefore, it can be useful to run this section and then save the resulting structure array, in case that users would like to re-run the analysis using different parameters.
 
 <a name="out"/>
 
 ## 3. Outputs
+
+For group analyses, correlation matrices, adjacency matrices, and circle plots are all automatically generated while running *Section 03. Basic Network Analyses*.  All other data can be found nested in the *WB* structure element in the MATLAB workspace.  All "per animal" data will be organized in the same order as it was input.  This order is stored under the user input ID structure elements for later reference.
 
 <a name="req"/>
 
@@ -61,3 +63,7 @@ Please ensure that the following packages and files are located in a MATLAB-acce
 
 - WB_Atlas.mat
 - a user-defined atlas (ex: User_Atlas_98reg.mat)
+
+**Version Requirements**
+
+This analysis was developped using MATLAB R2020a
