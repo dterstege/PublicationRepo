@@ -9,7 +9,7 @@ Navigate the appended folders within the repository to explore analysis scripts 
 | Directory  | Title | Included Analyses |
 | ------------- | ------------- | --------- |
 | [Evans2021](https://github.com/dterstege/PublicationRepo/tree/main/Evans2021)   | Neurogenesis mediated plasticity is associated with reduced neuronal activity in CA1 during context fear memory retrieval  | [#photometry](https://github.com/dterstege/PublicationRepo/tree/main/Evans2021/FP) [#FASTMAP](https://github.com/dterstege/FASTMAP) | 
-| [Terstege2022A](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2022A) | Brain-wide neuronal activation and functional connectivity are modulated by prior exposure to repetitive learning episodes | [#wholebrain](https://epplab.com) [#pointmask](https://github.com/dterstege/CavalieriPointMask) |
+| [Terstege2022A](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2022A) | Brain-wide neuronal activation and functional connectivity are modulated by prior exposure to repetitive learning episodes | [#wholebrain](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2022A/WholeBrain) [#pointmask](https://github.com/dterstege/CavalieriPointMask) |
 
 
 If you find any of these analyses to be useful in your own projects, please appropriately cite the referenced publication
