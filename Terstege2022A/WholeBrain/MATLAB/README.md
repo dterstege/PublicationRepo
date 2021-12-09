@@ -20,7 +20,9 @@ Whole Brain is a neuroanatomical information system.  Neuroanatomical data obtai
 
 **Input Files**
 
-After running the [*R* script](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2022A/WholeBrain/R), users will have two output csv files generated from each image.  One of these files will have the suffix "cells.csv" while the other has the suffix "grids.csv".  
+After running the [*R* script](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2022A/WholeBrain/R), users will have two output csv files generated from each image.  One of these files will have the suffix "cells.csv" while the other has the suffix "grids.csv".
+
+*Please note that the organization of the User Atlas is very important. When analyzing data using pairwise correlations, including a region which is missing from one of the subjects will have severe consequences of the resulting correlation. Atlas organization should be suited to only analyze regions present across all subjects in the analysis*
 
 **File Organization**
 
@@ -33,6 +35,8 @@ Users should read the MATLAB documentation in full prior to beginning the analys
 <a name="op"/>
 
 ## 2. Operation
+
+It is recommended that users read the MATLAB documentation in full prior to beginning the analysis.  It is also recommended that users run each section independently, which allows users to utlize the *Save* and *Load* commands built into the last two sections of the code (*Sections X and Y*).  The loading of experimental data can be time consuming, depending on group sizes.  Therefore, 
 
 <a name="out"/>
 
