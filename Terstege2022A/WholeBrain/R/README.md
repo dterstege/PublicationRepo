@@ -3,7 +3,7 @@ Script for WholeBrain Processing in R
 
 The script in this section will produce outputs suited for the [MATLAB analysis](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2022A/WholeBrain/MATLAB).
 
-As per their [*About* page](http://www.wholebrainsoftware.org/cms/sample-page/)
+As per the [*About* page](http://www.wholebrainsoftware.org/cms/sample-page/) of the WholeBrain Software Suite
 
 > WholeBrain is conceived and created by Daniel Fürth, during his PhD in Konstantinos Meletis lab, at Department of Neuroscience, Karolinska Institutet.
  
