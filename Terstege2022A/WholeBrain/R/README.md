@@ -5,7 +5,7 @@ The script in this section will produce outputs suited for the [MATLAB analysis]
 
 As per their [*About* page](http://www.wholebrainsoftware.org/cms/sample-page/)
 
-> WholeBrain is conceived and created by Daniel Fürth, during his PhD in Konstantinos Meletis lab, at Department of Neuroscience, Karolinska Institutet.
+>> WholeBrain is conceived and created by Daniel Fürth, during his PhD in Konstantinos Meletis lab, at Department of Neuroscience, Karolinska Institutet.
 Daniel is now a postdoctoral researcher in Jay Lee's lab at Cold Spring Harbor Laboratory working on next-generation of in situ sequencing methods.
 WholeBrain is intended as a software suite, meaning a collection of computer programs sharing a common interface and ability to integrate and exchange data with each other.
 The purpose of WholeBrain is to provide a user-friendly and efficient way for scientist with minimal knowledge of computers to create anatomical maps and integrate this information with behavioral and physiological data for sharing on the web.
