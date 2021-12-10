@@ -7,7 +7,7 @@ As per their [*About* page](http://www.wholebrainsoftware.org/cms/sample-page/)
 
 > WholeBrain is conceived and created by Daniel Fürth, during his PhD in Konstantinos Meletis lab, at Department of Neuroscience, Karolinska Institutet.
  
-> Daniel is now a postdoctoral researcher in Jay Lee's lab at Cold Spring Harbor Laboratory working on next-generation of in situ sequencing methods.
+ Daniel is now a postdoctoral researcher in Jay Lee's lab at Cold Spring Harbor Laboratory working on next-generation of in situ sequencing methods. <
 
 > WholeBrain is intended as a software suite, meaning a collection of computer programs sharing a common interface and ability to integrate and exchange data with each other.
 
