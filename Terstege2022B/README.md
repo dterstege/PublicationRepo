@@ -1,6 +1,8 @@
 ## Terstege et al. 2022
 
-Terstege, D. J., Oboh, D. O., Epp, J. R. FASTMAP: Open-Source Flexible Atlas Segmentation Tool for Multi-Area Processing of Biological Images.
+Terstege, D. J., Oboh, D. O., Epp, J. R. FASTMAP: Open-Source Flexible Atlas Segmentation Tool for Multi-Area Processing of Biological Images. eNeuro, 9 (2) ENEURO.0325-21.2022.
+
+eNeuro Manuscript can be accessed [here](https://www.eneuro.org/content/9/2/ENEURO.0325-21.2022)
 
 FASTMAP Software Package located [here](https://github.com/dterstege/FASTMAP)
 
