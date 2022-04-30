@@ -1,8 +1,8 @@
 ## Evans, Terstege et al. 2021
 
-Evans, A., Terstege, D. J., Scott, G. A., Tsutsui, M., Epp, J. R. Neurogenesis mediated plasticity is associated with reduced neuronal activtiy in CA1 during context fear memory retrieval. Scientific Reports. 
+Evans, A., Terstege, D. J., Scott, G. A., Tsutsui, M., Epp, J. R. Neurogenesis mediated plasticity is associated with reduced neuronal activtiy in CA1 during context fear memory retrieval. Scientific Reports. 12, 7016 (2022). https://doi.org/10.1038/s41598-022-10947-w
 
-Preprint: https://www.biorxiv.org/content/10.1101/2021.03.24.436893v1
+Publication: https://www.nature.com/articles/s41598-022-10947-w
 
 
 Questions regarding this manuscript can be addressed to the corresponding author.
