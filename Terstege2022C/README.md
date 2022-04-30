@@ -1,8 +1,8 @@
 ## Terstege et al. 2022
 
-temp
+Terstege, D. J., Addo-Osafo, K., Teskey, G. C., Epp, J. R. New neurons in old brains: implications of age in the analysis of neurogenesis in post-mortem tissue (2022)
 
-Preprint: temp
+Preprint: https://www.biorxiv.org/content/10.1101/2021.11.12.468443v1
 
 
 Questions regarding this manuscript can be addressed to the corresponding author.
