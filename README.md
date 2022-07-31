@@ -8,6 +8,7 @@ Navigate the appended folders within the repository to explore analysis scripts 
 
 | Directory  | Title | Included Analyses |
 | ------------- | ------------- | --------- |
+| [Scott2020](https://github.com/dterstege/PublicationRepo/tree/main/Scott2020) | Disrupted Neurogenesis in Germ-Free Mice: Effects of Age and Sex | N/A | 
 | [Evans2022](https://github.com/dterstege/PublicationRepo/tree/main/Evans2022)   | Neurogenesis mediated plasticity is associated with reduced neuronal activity in CA1 during context fear memory retrieval  | [#photometry](https://github.com/dterstege/PublicationRepo/tree/main/Evans2021/FP) [#FASTMAP](https://github.com/dterstege/FASTMAP) | 
 | [Terstege2022A](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2022A) | Brain-wide neuronal activation and functional connectivity are modulated by prior exposure to repetitive learning episodes | [#wholebrain](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2022A/WholeBrain) [#pointmask](https://github.com/dterstege/CavalieriPointMask) |
 | [Terstege2022B](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2022B) | FASTMAP: Open-Source Flexible Atlas Segmentation Tool for Multi-Area Processing of Biological Images | [#FASTMAP](https://github.com/dterstege/FASTMAP) | 
