@@ -2,7 +2,7 @@
 
 Scott, G. A., Vu, A. P., Terstege, D. J., Law, S., Evans, A., Epp, J. R. Disrupted neurogenesis in germ-free mice: effects of age and sex (2020). Frontiers in Cell and Developmental Biology. 8,407.
 
-Manuscript can be accessed through Frontiers in Cellular and Developmental Biology [here]([https://molecularbrain.biomedcentral.com/articles/10.1186/s13041-022-00926-7](https://www.frontiersin.org/articles/10.3389/fcell.2020.00407/full))
+Manuscript can be accessed through Frontiers in Cellular and Developmental Biology [here](https://www.frontiersin.org/articles/10.3389/fcell.2020.00407/full)
 
 
 Questions regarding this manuscript can be addressed to the corresponding author.
