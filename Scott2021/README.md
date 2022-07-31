@@ -2,7 +2,7 @@
 
 Scott, G. A., Terstege, D. J., Roebuck, A. J., Gorzo, K. A., Vu, A. P., Howland, J. G., Epp, J. R. Adult neurogenesis mediates forgetting of multiple types of memory in the rat (2021). Molecular Brain. 14,97.
 
-Manuscript can be accessed through Molecular Brain [here]([[https://molecularbrain.biomedcentral.com/articles/10.1186/s13041-022-00926-7](https://www.frontiersin.org/articles/10.3389/fcell.2020.00407/full](https://link.springer.com/article/10.1186/s13041-021-00808-4)))
+Manuscript can be accessed through Molecular Brain [here]([[https://molecularbrain.biomedcentral.com/articles/10.1186/s13041-022-00926-7])
 
 
 Questions regarding this manuscript can be addressed to the corresponding author.
