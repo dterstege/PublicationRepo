@@ -10,7 +10,7 @@ File Contents:
 - User_Atlas_115reg.mat
   - User atlas file for the whole brain analyses (c-Fos+ mapping)
 - Coronal_LowLevel.zip
-  - Atlas plates used for the FASTMAP analysis (PV+/c-Fos+ mapping)
+  - Atlas plates used for the (FASTMAP analysis)[https://github.com/dterstege/FASTMAP] (PV+/c-Fos+ mapping)
 - x3d_scene_acute.x3d
   - 3D object representation of change in c-Fos expression density with acute LI-rTMS
 - MovieS1 SBA-composer-animation_acute.webm
