@@ -1,4 +1,4 @@
-## Scott, Vu, Terstege et al. 2020
+## Scott, Terstege, Vu et al. 2020
 
 Scott, G. A., Vu, A. P., Terstege, D. J., Law, S., Evans, A., Epp, J. R. Disrupted neurogenesis in germ-free mice: effects of age and sex (2020). Frontiers in Cell and Developmental Biology. 8,407.
 
