@@ -1,4 +1,4 @@
-## Moretti et al. 2022
+## Moretti, Terstege et al. 2022
 
 Moretti, J., Terstege, D. J., Poh, E. Z., Epp, J. R., Rodger, J. Low intensity repetitive transcranial magnetic stimulation modulates brain-wide functional connectivity to promote anti-correlated activity.
 
