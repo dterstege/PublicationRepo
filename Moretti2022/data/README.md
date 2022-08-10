@@ -3,6 +3,10 @@
 Data and Supplementary Data Files from the Manuscript
 
 File Contents:
+- rTMS_supp1.xlsx
+  - List of regions used in the analyses
+- rTMS_supp2.xlsx
+  - Data used in the generation of manuscript figures
 - User_Atlas_115reg.mat
   - User atlas file for the whole brain analyses (c-Fos+ mapping)
 - Coronal_LowLevel.zip
