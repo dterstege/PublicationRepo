@@ -17,3 +17,5 @@ File Contents:
   - Video of 3D representation of change in c-Fos expression density with acute LI-rTMS
 - x3d_scene_chronic.x3d
   - 3D object representation of change in c-Fos expression density with chronic LI-rTMS
+- MovieS1 SBA-composer-animation_chronic.webm
+  - Video of 3D representation of change in c-Fos expression density with chronic LI-rTMS
