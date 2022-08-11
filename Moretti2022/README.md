@@ -10,6 +10,7 @@ Questions regarding this manuscript can be addressed to the corresponding author
 ## Contact Us
 
 - Jessica Moretti (Corresponding Author) 
+  - ![twitter-icon_16x16](https://user-images.githubusercontent.com/44174532/113163958-e3d3e400-91fd-11eb-8d79-17906d8d3f25.png)[@JessicaMoretti_](https://twitter.com/JessicaMoretti_) 
   - ![Mail](https://user-images.githubusercontent.com/44174532/113164412-50e77980-91fe-11eb-9282-dd83852578ce.png)
 <jmoretti.research@gmail.com>
 
@@ -22,5 +23,6 @@ Questions regarding this manuscript can be addressed to the corresponding author
   - https://epplab.com
 
 - Jennifer Rodger (Principal Investigator / Corresponding Author) 
+  - https://brainplasticitylab.org
   - ![Mail](https://user-images.githubusercontent.com/44174532/113164412-50e77980-91fe-11eb-9282-dd83852578ce.png)
 <jennifer.rodger@uwa.edu.au>
