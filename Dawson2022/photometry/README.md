@@ -5,7 +5,8 @@ Analyses used with the fiber photometry experiments
 
 It is recommended that users read through the documentation in the first section of each script in full prior to running the analyses.  These sections have been copied and pasted below.
 
-From SarginFP_ANYmaze_v111.m:
+SarginFP_ANYmaze_v111.m
+----------------------------
 
 ~~~
 %                       *GENERAL INFORMATION*
@@ -83,7 +84,8 @@ From SarginFP_ANYmaze_v111.m:
 %   to adjust these values as needed to suit the analysis.
 ~~~
 
-From SarginFP_SimBA_v163.m
+SarginFP_SimBA_v163.m
+--------------------------
 ~~~
 %                       *GENERAL INFORMATION*
 %
