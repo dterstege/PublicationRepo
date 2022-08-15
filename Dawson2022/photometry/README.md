@@ -81,22 +81,6 @@ From SarginFP_ANYmaze_v111.m:
 %   the code. Each of these instances are documented and can be found by
 %   searching (control+F) this file with the search term ''. Be sure
 %   to adjust these values as needed to suit the analysis.
-%
-%
-%                       *DEVELOPER INFORMATION*
-%
-%   Version 1.0.1
-%
-%   V1.0.1 - Basic Behavioural Alignment. Assumes consistent framerate
-%   V1.1.1 - Integration of a pickup window for excluding experimenter-introduced noise;
-%
-%   Developed for the Sargin Lab, University of Calgary
-%   (https://sarginlab.com)
-%   Datasets used during script development were collected by Matt Dawson
-%
-%   Created 08/18/2021 Dylan Terstege (https://github.com/dterstege)
-%   Epp Lab, University of Calgary (https://epplab.com)
-%   Contact: dylan.terstege@ucalgary.ca
 ~~~
 
 From SarginFP_SimBA_v163.m
@@ -188,48 +172,4 @@ From SarginFP_SimBA_v163.m
 %   the code. Each of these instances are documented and can be found by
 %   searching (control+F) this file with the search term '#frames'. Be sure
 %   to adjust these values as needed to suit the analysis.
-%
-%
-%                       *DEVELOPER INFORMATION*
-%
-%   Version 1.6.3
-%
-%   V1.1 - Basic Behavioural Alignment. Assumes consistent framerate
-%   1.1.1 - Z-score integration; bout-by-bout information;
-%   behaviour-dependent dF/F saved to variable; behaviour stretch has been
-%   fixed
-%   1.1.2 - mean peak amplitude defaults to the baseline-corrected value;
-%   %dF/F output option added
-%   1.1.3 - timestamp of peak amplitude during each segment in which peaks
-%   are detected; option to define time ranges of interest added to
-%   beahviour-independent section (Z)
-%
-%   V1.2 - Utilizes MatLab Image Processing Toolkit
-%   (https://www.mathworks.com/products/image.html)
-%   V1.2.1 - alignment using nearest neighbour interpolation; no longer asking user
-%   for number of frames trimmed -- number of total frames is assumed by
-%   fixed framerate and the number of dummy frames to be added to the
-%   beginning is calculated based on the discrepency between the total
-%   number of frames imported and the expected number of frames
-%   
-%   V1.3 - Back to previous re-alignment style; total number of frames
-%   still assumed by fixed framerate and the number dummy frames added to
-%   the beginning is calculated based on the discrepency between the total
-%   number of frames imported and the expected number of frames; fixed
-%   "extra data" issues
-%
-%   V1.4 - Rolling Window Peak Detection
-%
-%   V1.5 - Trace Analyses during Epoch, independent of behaviour
-%   For simplicity, this is nested within the "Behaviour Dependent" section
-%   of the analysis (simply because we've already defined the epochs during
-%   this section)
-%
-%   Developed for the Sargin Lab, University of Calgary
-%   (https://sarginlab.com)
-%   Datasets used during script development were collected by Matt Dawson
-%
-%   Created 06/03/2021 Dylan Terstege (https://github.com/dterstege)
-%   Epp Lab, University of Calgary (https://epplab.com)
-%   Contact: dylan.terstege@ucalgary.ca
 ~~~
