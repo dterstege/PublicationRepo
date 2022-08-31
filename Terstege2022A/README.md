@@ -2,7 +2,7 @@
 
 Terstege, D. J., Durante, I. M., Epp, J. R. Brain-wide neuronal activation and functional connectivity are modulated by prior exposure to repetitive learning episodes.
 
-Preprint: https://www.biorxiv.org/content/10.1101/2021.03.28.437394v1
+Manuscript is avaible through [Frontiers in Behavioral Neuroscience](https://www.frontiersin.org/articles/10.3389/fnbeh.2022.907707)
 
 
 Questions regarding this manuscript can be addressed to the corresponding author.
