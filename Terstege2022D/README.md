@@ -2,7 +2,7 @@
 
 Terstege, D. J., Epp, J. R. Network neuroscience untethered: brain-wide immediate early gene expression for the analysis of functional connectivity in freely behaving animals.
 
-Preprint: Coming soon...
+Preprint: Currently available on [OSF Preprints](https://osf.io/92ts5/)
 
 
 Questions regarding this manuscript can be addressed to the corresponding author.
