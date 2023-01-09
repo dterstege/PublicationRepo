@@ -1,8 +1,8 @@
-## Terstege et al. 2022
+## Terstege et al. 2023
 
-Terstege, D. J., Epp, J. R. Network neuroscience untethered: brain-wide immediate early gene expression for the analysis of functional connectivity in freely behaving animals.
+Terstege, D. J., Epp, J. R. Network neuroscience untethered: brain-wide immediate early gene expression for the analysis of functional connectivity in freely behaving animals. 2023. 12(1), 34.
 
-Preprint: Currently available on [OSF Preprints](https://osf.io/92ts5/)
+Manuscript: Currently available at [Biology](https://www.mdpi.com/2079-7737/12/1/34)
 
 
 Questions regarding this manuscript can be addressed to the corresponding author.
