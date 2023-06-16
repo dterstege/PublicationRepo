@@ -1,4 +1,4 @@
-Statistics
+Analyses
 =========
 
-The attached XLSX files outline all of the statistical comparisons presented in the main and supplemental figures.
+The attached codes were used in all photometry and functional connectivity analyses.
