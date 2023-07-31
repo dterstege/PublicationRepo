@@ -1,6 +1,6 @@
 ## Dawson et al. 2023
 
-Dawson, M., Terstege, D. J., Jamani, N., Pavlov, D., Tsutsui, M., Epp, J. R., Leinninger, G. M., Sargin, D. Sex-dependent role of hypocretin/orexin neurons in social behavior. 2023. Cell Reports, 42(7).
+Dawson, M., Terstege, D. J., Jamani, N., Pavlov, D., Tsutsui, M., Epp, J. R., Leinninger, G. M., Sargin, D. Sex-dependent role of hypocretin/orexin neurons in social behavior. Cell Reports, 42(7). (2023)
 
 This manuscript is currently available at [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00826-4#secsectitle0090).
 
