@@ -2,7 +2,7 @@
 
 Terstege, D. J., Ren, Y., Sargin, D., Epp, J. R. Sex-dependent impairments of parvalbumin expressing neurons in the retrosplenial cortex in Alzheimer’s disease.
 
-Preprint: temp
+Preprint: https://www.biorxiv.org/content/10.1101/2023.06.22.546142v1
 
 
 Questions regarding this manuscript can be addressed to the corresponding authors.
