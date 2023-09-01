@@ -20,6 +20,7 @@ Navigate the appended folders within the repository to explore analysis scripts 
 | [Dawson2022](https://github.com/dterstege/PublicationRepo/tree/main/Dawson2022) | Sex-dependent role of hypocretin/orexin neurons in social behavior | [#photometry](https://github.com/dterstege/PublicationRepo/tree/main/Dawson2022/photometry)|
 | [Terstege2023A](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023A) | Sex-dependent impairments of parvalbumin expressing neurons in the retrosplenial cortex in Alzheimer’s disease | [#wholebrain](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023A/wholebrain) [#pointmask](https://github.com/dterstege/CavalieriPointMask) [#wholebrainanalysis](https://github.com/dterstege/WholeBrainAnalysis) [#photometry](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023A/photometry) |
 | [Terstege2023B](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023B) | temp | [#photometry](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023B/photometry)|
+| [Terstege2023C](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023C) | Parvalbumin as a sex-specific target in Alzheimer’s disease research – A mini-review | N/A |
 
 
 If you find any of these analyses to be useful in your own projects, please appropriately cite the referenced publication
