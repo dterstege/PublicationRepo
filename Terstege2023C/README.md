@@ -1,4 +1,4 @@
-## Terstege et al. 2023
+## Terstege et al. 2023C
 
 Terstege, D. J., Epp, J. R. Parvalbumin as a sex-specific target in Alzheimer’s disease research – A mini-review (2023). Neuroscience & Biobehavioral Reviews. 153,105370.
 
