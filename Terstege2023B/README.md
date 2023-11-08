@@ -1,6 +1,6 @@
 ## Terstege et al. 2023B
 
-Terstege, D. J., Dawson, M., Jamani, N. F., Tsutsui, M., Epp, J. R., Sargin, D. Integrating fiber photometry and social behavior.
+Terstege, D. J., Dawson, M., Jamani, N. F., Tsutsui, M., Epp, J. R., Sargin, D. Protocol for the integration of fiber photometry and social behavior in rodent models. (2023) STAR Protocols.
 
 Manuscript soon to come.
 
