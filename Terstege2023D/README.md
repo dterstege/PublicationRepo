@@ -1,8 +1,8 @@
 ## Terstege et al. 2023D
 
-Terstege, D. J., Epp, J. R. PAW, a cost-effective and open-source alternative to commercial rodent running wheels.
+Terstege, D. J., Epp, J. R. PAW, a cost-effective and open-source alternative to commercial rodent running wheels. HardwareX. 16, e00499.
 
-Manuscript coming soon
+Manuscript can be accessed through HardwareX [here](https://www.sciencedirect.com/science/article/pii/S2468067223001062)
 
 For more information and the latest releases, please visit the [PAW GitHub Page](https://github.com/dterstege/PAW)
 
