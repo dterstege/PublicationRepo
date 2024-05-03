@@ -22,6 +22,7 @@ Navigate the appended folders within the repository to explore analysis scripts 
 | [Terstege 2023B](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023B) | Protocol for the integration of fiber photometry and social behavior in rodent models | [#photometry](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023B/photometry)|
 | [Terstege 2023C](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023C) | Parvalbumin as a sex-specific target in Alzheimer’s disease research – A mini-review | N/A |
 | [Terstege 2023D](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023D) | PAW, a cost-effective and open-source alternative to commercial rodent running wheels | [#PAW](https://github.com/dterstege/PAW) |
+| [Terstege 2024A](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2024A) | TEMP | [#photometry](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2024A/photometry)|
 
 
 
