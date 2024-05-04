@@ -1,6 +1,6 @@
 ## Terstege et al. 2024A
 
-Terstege, D. J. & Epp, J. R.
+Terstege, D. J. & Epp, J. R. Perinenuronal nets increase the resilience of parvalbumin interneurons to amyloid pathology 
 
 
 Questions regarding this manuscript can be addressed to the corresponding authors.
