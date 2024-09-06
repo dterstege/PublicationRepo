@@ -1,6 +1,6 @@
 ## Terstege et al. 2024B
 
-Terstege, D. J., Goonetilleke, D., Barha, C. K., Epp, J. R. Running-induced neurogenesis reduces CA1 perineuronal net density without substantial temporal delay. Molecular Brain. 17, 64.
+Terstege, D. J., Goonetilleke, D., Barha, C. K., Epp, J. R. Running-induced neurogenesis reduces CA1 perineuronal net density without substantial temporal delay. Molecular Brain. 17, 64. (2024)
 
 Manuscript can be accessed through Molecular Brain [here](https://molecularbrain.biomedcentral.com/articles/10.1186/s13041-024-01138-x)
 
