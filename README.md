@@ -22,9 +22,12 @@ Navigate the appended folders within the repository to explore analysis scripts 
 | [Terstege 2023B](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023B) | Protocol for the integration of fiber photometry and social behavior in rodent models | [#photometry](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023B/photometry)|
 | [Terstege 2023C](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023C) | Parvalbumin as a sex-specific target in Alzheimer’s disease research – A mini-review | N/A |
 | [Terstege 2024A](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2024A) | PAW, a cost-effective and open-source alternative to commercial rodent running wheels | [#PAW](https://github.com/dterstege/PAW) |
-| [Ramkumar Edge-Partington 2024](https://github.com/dterstege/PublicationRepo/tree/main/Ramkumar2024) | Long-term impact of early-life stress on serotonin connectivity | N/A |
+| [Ramkumar Edge-Partington 2024](https://github.com/dterstege/PublicationRepo/tree/main/Ramkumar2024) | Long-term impact of early-life stress on serotonin connectivity | [#LBN](https://github.com/dterstege/LBN_Cage) |
 | [Terstege 2024B](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2024B) | Running-induced neurogenesis reduces CA1 perineuronal net density without substantial temporal delay | [#PAW](https://github.com/dterstege/PAW) |
 | [Terstege 2024C](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2024C) | Retrosplenial hypometabolism precedes the conversion from mild cognitive impairment to Alzheimer’s Disease | N/A |
+| [Barnard 2024](https://github.com/dterstege/PublicationRepo/tree/main/Barnard2024) | TBD | N/A |
+| [Terstege 2025A](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2025A) | Cognitive enrichment preserves retrosplenial parvalbumin density and cognitive function in female 5xFAD mice | [#wholebrain](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023A/wholebrain) [#pointmask](https://github.com/dterstege/CavalieriPointMask) [#wholebrainanalysis](https://github.com/dterstege/WholeBrainAnalysis) |
+| [O'Neill Terstege 2025](https://github.com/dterstege/PublicationRepo/tree/main/ONeill2025) | TBD | [#LBN](https://github.com/dterstege/LBN_Cage) |
 
 
 
