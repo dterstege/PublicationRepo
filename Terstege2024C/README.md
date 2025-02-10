@@ -1,9 +1,8 @@
 ## Terstege et al. 2024C
 
-Terstege, D. J., Alzheimer's Disease Neuroimaging Initiative, Galea, L. A. M.,Epp, J. R. Retrosplenial hypometabolism precedes the conversion from mild cognitive impairment to Alzheimer’s Disease.
+Terstege, D. J., Alzheimer's Disease Neuroimaging Initiative, Galea, L. A. M.,Epp, J. R. Retrosplenial hypometabolism precedes the conversion from mild cognitive impairment to Alzheimer’s Disease (2024). Alzheimer's & Dementia. 20(12), 8979-8986.
 
-Manuscript accepted at Alzheimer's & Dementia: The Journal of the Alzheimer's Association. Link will be made available manuscript is online
-
+Manuscript can be read in full at [Alzheimer's & Dementia: The Journal of the Alzheimer's Association](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.14258).
 
 Questions regarding this manuscript can be addressed to the corresponding author.
 
