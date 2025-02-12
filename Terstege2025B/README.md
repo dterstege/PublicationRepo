@@ -1,6 +1,6 @@
 ## Terstege et al. 2025
 
-Terstege, D. J., Jabeen, S., Galea, L. A. M., Epp, J. R., Sargin, D. Long-Term Impact of Early-Life Stress on Serotonin Connectivity. Alzheimer's & Dementia (2025)
+Terstege, D. J., Jabeen, S., Galea, L. A. M., Epp, J. R., Sargin, D. SSRIs reduce plasma tau and restore dorsal raphe metabolism in Alzheimer's disease. Alzheimer's & Dementia (2025)
 
 This manuscript is currently available at [Alzheimer's & Dementia](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.14579).
 
