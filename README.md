@@ -28,6 +28,7 @@ Navigate the appended folders within the repository to explore analysis scripts 
 | [Barnard 2024](https://github.com/dterstege/PublicationRepo/tree/main/Barnard2024) | TBD | N/A |
 | [Terstege 2025A](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2025A) | Cognitive enrichment preserves retrosplenial parvalbumin density and cognitive function in female 5xFAD mice | [#wholebrain](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2023A/wholebrain) [#pointmask](https://github.com/dterstege/CavalieriPointMask) [#wholebrainanalysis](https://github.com/dterstege/WholeBrainAnalysis) |
 | [O'Neill Terstege 2025](https://github.com/dterstege/PublicationRepo/tree/main/ONeill2025) | TBD | [#LBN](https://github.com/dterstege/LBN_Cage) |
+| [Terstege 2025B](https://github.com/dterstege/PublicationRepo/tree/main/Terstege2025B) | SSRIs reduce plasma tau and restore dorsal raphe metabolism in Alzheimer's disease | N/A |
 
 
 
