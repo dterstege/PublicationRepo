@@ -1,8 +1,8 @@
 ## Terstege et al. 2023A
 
-Terstege, D. J., Ren, Y., Ahn, B. Y., Seo, H., Alzheimer's Disease Neuroimaging Initiative, Galea, L. A. M., Sargin, D., Epp, J. R. Impaired parvalbumin interneurons in the retrosplenial cortex as the cause of sex-dependent vulnerability in Alzheimer’s disease.
+Terstege, D. J., Ren, Y., Ahn, B. Y., Seo, H., Alzheimer's Disease Neuroimaging Initiative, Galea, L. A. M., Sargin, D., Epp, J. R. Impaired parvalbumin interneurons in the retrosplenial cortex as the cause of sex-dependent vulnerability in Alzheimer’s disease. Science Advances. 11(18), eadt8976.
 
-Preprint: to be updated upon clearance by BioRxiv
+Published in 2025. Manuscript is available through [Science Advances](https://www.science.org/doi/10.1126/sciadv.adt8976).
 
 
 Previous version:
