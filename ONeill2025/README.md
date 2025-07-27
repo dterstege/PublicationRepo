@@ -1,8 +1,8 @@
 ## O'Neill, Terstege et al. 2025
 
-TEMP
+O'Neill, O. S., Terstege, D. J., Gill, A. K., Edge-Partington, M., Ramkumar, R., Epp, J. R., Sargin, D. An open-source rodent limited bedding and nesting apparatus for chronic early life stress. eNeuro. ENEURO.0081-25.2025.
 
-Manuscript to be linked upon publication
+Manuscript is avaible through [eNeuro](https://www.eneuro.org/content/12/6/ENEURO.0081-25.2025).
 
 Questions regarding this manuscript can be addressed to the corresponding author.
 
